@@ -14,6 +14,11 @@ These new visualizations will be added to the previously created visualizations 
 
 ### Software
 - Tableau Public 2022.2
+- Python 3.7.6
+- Conda 4.13.0
+- Jupyter Notebook
+- Dependencies:
+  - Python Pandas Library
 
 ## Results
 ### Deliverable 1: Change Trip Duration to a Datetime Format
