@@ -1,11 +1,15 @@
 # bikesharing
 
 ## Overview 
-
+The purpose of this analysis is to convince investors and solidify the proposal that a bike-sharing program in Des Moines is a great inverstement and business venture. For this analysis, Pandas will be utilized to change the "tripduration" column from an integer to a datetime datatype and then this converted datatype will be used to create a set of visualizations to:
+- Show the length of time that bikes are checked out for all riders and genders
+- Show the number of bike trips for all riders and genders for each hour of each day of the week
+- Show the number of bike trips for each type of user and gender for each day of the week.
+These new visualizations will be added to the previously created visualizations to pitch to investors.
 
 ## Resources
 ### Data Source 
-- ? [?](?) 
+- [?](?) 
 
 ### Software
 - Tableau Public 2022.2
@@ -21,9 +25,9 @@ Using Python and Pandas functions, convert the "tripduration" column from an int
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, create visualizations that show:
-    - How long bikes are checked out for all riders and genders.
-    - How many trips are taken by the hour for each day of the week, for all riders and genders.
-    - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+- How long bikes are checked out for all riders and genders.
+- How many trips are taken by the hour for each day of the week, for all riders and genders.
+- A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour:
 
