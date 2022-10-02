@@ -37,16 +37,19 @@ Using Tableau, create visualizations that show:
   - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476740-50faff0f-5600-425f-9743-bc30c56394c9.png)
 
 2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476774-9ef7d1f6-04c9-4c55-ba2f-7090496012a7.png)
 
 3. A heatmap is created showing the number of bike trips for each hour of each day of the week:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476810-f5e4a9c5-5fb7-413c-a737-dcfc40caae91.png)
 
-4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender: 
+4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476839-1d62cf6a-adad-41fa-afb5-b0712cc9c184.png)
 
-5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender: 
-
-
+5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476898-84974389-2707-40fd-a381-ecb65f5e1eab.png)
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 Create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis performed in the module and in Deliverable 2.
