@@ -25,9 +25,10 @@ These new visualizations will be added to the previously created visualizations 
 Using Python and Pandas functions, convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00) and export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
 1. The data in the "tripduration" column is converted to a datetime datatype and has the correct time format:
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193474116-24f5f00e-7ca1-4d7f-b070-ebe7cc90e34f.png)
 
 2. The DataFrame is exported as a new file without the index column:
-
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193474090-6a11e9c8-278d-4017-af10-8688eeedaf6e.png)
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, create visualizations that show:
