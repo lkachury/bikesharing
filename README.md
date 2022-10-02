@@ -37,16 +37,16 @@ Using Tableau, create visualizations that show:
   - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour:
-<br /> ![image](https://user-images.githubusercontent.com/108038989/193476740-50faff0f-5600-425f-9743-bc30c56394c9.png)
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476990-3d3096de-cc41-4f5e-b6a3-489be9e860ae.png)
 
 2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender: 
-<br /> ![image](https://user-images.githubusercontent.com/108038989/193476774-9ef7d1f6-04c9-4c55-ba2f-7090496012a7.png)
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476976-9ef60378-2a28-4e3f-a81d-f34f84e836fb.png)
 
 3. A heatmap is created showing the number of bike trips for each hour of each day of the week:
-<br /> ![image](https://user-images.githubusercontent.com/108038989/193476810-f5e4a9c5-5fb7-413c-a737-dcfc40caae91.png)
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476967-fd6a8bc6-507c-440d-837a-2e55ebb8af7b.png)
 
 4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender:
-<br /> ![image](https://user-images.githubusercontent.com/108038989/193476839-1d62cf6a-adad-41fa-afb5-b0712cc9c184.png)
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193476945-1ec7eac2-78a3-4755-9f79-21fa55aec342.png)
 
 5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender:
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193476898-84974389-2707-40fd-a381-ecb65f5e1eab.png)
