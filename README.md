@@ -60,7 +60,7 @@ Create a story in Tableau and write a report that describes the key outcomes of 
 2. The "Top Starting Location" visualization created in the module was updated with User Type and also added to the NYC Citi Bike Story: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193494564-f863e190-ad67-4bea-896a-b1ea061f6b41.png)
 
-3. 2. The "Top Ending Location" visualization created in the module was updated with user Type and also added to the NYC Citi Bike Story: 
+3. The "Top Ending Location" visualization created in the module was updated with user Type and also added to the NYC Citi Bike Story: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193494650-aadbf18c-872e-4703-a11a-1c7c95f2efd5.png)
 
 [link to dashboard](LINK)
