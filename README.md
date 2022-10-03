@@ -11,7 +11,7 @@ These new visualizations will be added to the previously created Tableau visuali
 ## Resources
 ### Data Source 
 - [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data)
-  - [NYC August 2019 csv File](https://s3.amazonaws.com/tripdata/index.html)
+  - [NYC August 2019 CSV File](https://s3.amazonaws.com/tripdata/index.html)
 
 ### Software
 - Tableau Public 2022.2
