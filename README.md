@@ -54,7 +54,7 @@ Using Tableau, create visualizations that show:
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 Create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis performed by utilizing the five visualizations created above in Deliverable 2 and at least two visualizations created in the module.
 
-1. The "Number of Rides", "Customers", "Gender Breakdown", and "August Peak Hours" visualizations created in the module were combined into a dashboard and this dashboard is the opening page of the NYC Citi Bike Story:  
+1. The "Number of Rides", "Customers", "Gender Breakdown", and "August Peak Hours" visualizations created in the module were combined into a dashboard and this dashboard became the opening page of the NYC Citi Bike Story: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193492757-2f6b6ce4-4729-4d18-8eda-e04087b01cdd.png)
 
 2. ?
