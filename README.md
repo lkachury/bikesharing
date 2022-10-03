@@ -63,7 +63,7 @@ Create a story in Tableau and write a report that describes the key outcomes of 
 3. The "Top Ending Location" visualization created in the module was updated with user Type and also added to the NYC Citi Bike Story: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193494650-aadbf18c-872e-4703-a11a-1c7c95f2efd5.png)
 
-[link to dashboard](LINK)
+[Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/lizeth.achury/viz/NYCCitiBikeStory_16647693862650/NYCCitiBikeStory)
 
 ## Summary 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis
