@@ -57,8 +57,11 @@ Create a story in Tableau and write a report that describes the key outcomes of 
 1. The "Number of Rides", "Customers", "Gender Breakdown", and "August Peak Hours" visualizations created in the module were combined into a dashboard and this dashboard became the opening page of the NYC Citi Bike Story: 
 <br /> ![image](https://user-images.githubusercontent.com/108038989/193492757-2f6b6ce4-4729-4d18-8eda-e04087b01cdd.png)
 
-2. ?
-<br />
+2. The "Top Starting Location" visualization created in the module was updated with User Type and also added to the NYC Citi Bike Story: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193494564-f863e190-ad67-4bea-896a-b1ea061f6b41.png)
+
+3. 2. The "Top Ending Location" visualization created in the module was updated with user Type and also added to the NYC Citi Bike Story: 
+<br /> ![image](https://user-images.githubusercontent.com/108038989/193494650-aadbf18c-872e-4703-a11a-1c7c95f2efd5.png)
 
 [link to dashboard](LINK)
 
